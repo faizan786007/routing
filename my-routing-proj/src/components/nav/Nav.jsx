@@ -17,7 +17,7 @@ function Nav() {
 							/>
 						</Link>
 
-						<h4>Coding Mafia</h4>
+						<h4>Mafia Coder</h4>
 					</div>
 					<div className={style.nav_details}>
 						<button>
